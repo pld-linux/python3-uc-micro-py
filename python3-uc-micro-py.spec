@@ -6,7 +6,7 @@ Summary:	Python port of uc.micro: micro subset of Unicode data files for linkify
 Summary(pl.UTF-8):	Pythonowy port uc.micro: mały podzbiór plików danych unicode dla projektów linkify-it-py
 Name:		python3-uc-micro-py
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/uc-micro-py/
