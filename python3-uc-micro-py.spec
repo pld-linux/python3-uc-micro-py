@@ -1,6 +1,6 @@
 #
 # Conditional build:
-%bcond_with	tests	# unit tests (not included in sdist)
+%bcond_without	tests	# unit tests
 
 Summary:	Python port of uc.micro: micro subset of Unicode data files for linkify-it-py projects
 Summary(pl.UTF-8):	Pythonowy port uc.micro: mały podzbiór plików danych unicode dla projektów linkify-it-py
